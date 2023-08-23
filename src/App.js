@@ -8,7 +8,8 @@ const App = () => {
       <NavBar />
       <ItemListContainer greeting="Tienda de Importacion NicSoft" />
     </div>
-  );
+  ); 
+  
 };
 
 export default App;
